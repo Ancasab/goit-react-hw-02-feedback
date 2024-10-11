@@ -2,8 +2,15 @@
     margin: auto;
     padding: 20px;
     width: 400px;
+    font-weight: 400;
+    font-size: 22px;
+    color: black;
 }
 .sectionTitle {
     text-align: center;
     margin: 0;
+    font-weight: 400;
+    font-size: 22px;
+    color: black;
+
 }
