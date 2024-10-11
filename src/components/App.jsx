@@ -21,8 +21,8 @@ import { Statistics } from './Statistics/Statistics';
 import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
 import { Section } from './Section/Section';
 import { Notification } from './Notification/Notification';
-// import PropTypes from "prop-types";
-// import css from './App.module.css';
+
+
 
 
 

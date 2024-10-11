@@ -1,1 +1,11 @@
+.listaStats {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
 
+.itemStats {
+    font-size: 18px;
+    font-weight: 500;
+}

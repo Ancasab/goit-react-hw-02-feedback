@@ -12,9 +12,9 @@ export const Statistics = ({good, neutral, bad, total, positivePercentage,}) => 
         ]
   
     return (
-        <ul>
+        <ul className={css.listaStats}>
             {statisticArray.map(({ statItem, title }) => (
-                <li key={title}>
+                <li className={css.itemStats} key={title}>
                     <p>
                         {title}: {' '}
                         <span>
