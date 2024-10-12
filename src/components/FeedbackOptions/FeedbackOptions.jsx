@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import PropTypes from "prop-types";
 import css from "./FeedbackOptions.module.css";
 
@@ -21,4 +21,4 @@ FeedbackOptions.propTypes = {
   onLeaveFeedback: PropTypes.func.isRequired,
 };
 
-export default FeedbackOptions
+// export default FeedbackOptions

@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import css from './Notification.module.css'
 import PropTypes from "prop-types";
 
@@ -12,4 +12,4 @@ Notification.propTypes = {
   message: PropTypes.string.isRequired,
 };
 
-export default Notification
+// export default Notification

@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import PropTypes from "prop-types";
 import css from "./Statistics.module.css";
 
@@ -36,4 +36,4 @@ Statistics.propTypes = {
   positivePercentage: PropTypes.number.isRequired,
 };
 
-export default Statistics
+// export default Statistics
